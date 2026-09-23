@@ -1,4 +1,4 @@
-# Historical Sales Analytics and Dashboard Development-(Lenskart)
+# Eyewear Retail Sales Analytics Dashboard-(Lenskart)
 Uses a publicly available Kaggle dataset modeled on Lenskart's sales and customer data — not proprietary company data.
 
 ## 📌 Overview
