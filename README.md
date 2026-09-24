@@ -25,7 +25,7 @@ Framed as a real-world business scenario: an eyewear retailer wants to understan
 ## 📂 Project Files
 
 - [`table_creation.md`](./ddl_table_creation.sql) — Table creation queries
-- [`sql.md`](./sql.md) — All 15 business questions with queries, results, and explanations
+- [`sql.md`](./sql.md) — All 8 business questions with queries, results, and explanations
 - [`Dashboard.md`](./Dashboard.md) — Dashboard results and queries
 - [`Lenskart_Sales_Dashboard`](./Lenskart_Sales_Dashboard.pbix) — the Power BI file (open in Power BI Desktop to interact with filters)
 - [`screenshots`](./screenshots) — Screenshots of dashboard
