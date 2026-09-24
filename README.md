@@ -22,6 +22,14 @@ Framed as a real-world business scenario: an eyewear retailer wants to understan
 - **Growth is real but decelerating** — YoY growth slowed from 3.89% (2024) to 1.43% (2025), with a linear forecast projecting 2026 revenue to nearly flatten.
 - **Today's biggest markets aren't tomorrow's fastest-growing ones** — Maharashtra leads in current revenue, but Bihar (+46.3%) and Chandigarh (+38.5%) are growing far faster and warrant more investment.
 
+## 📂 Project Files
+
+- [`table_creation.md`](./ddl_table_creation.sql) — Table creation queries
+- [`sql.md`](./sql.md) — All 15 business questions with queries, results, and explanations
+- [`Dashboard.md`](./Dashboard.md) — Dashboard results and queries
+- [`Lenskart_Sales_Dashboard`](./Lenskart_Sales_Dashboard.pbix) — the Power BI file (open in Power BI Desktop to interact with filters)
+- [`screenshots`](./screenshots) — Screenshots of dashboard
+
 ## 📁 Repository Structure
 ```
 ├── README.md
